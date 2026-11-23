@@ -1,0 +1,14 @@
+project:
+  name: FlowCast
+  description: Smart Traffic Flow Prediction System
+
+paths:
+  data: data/
+  models: models/
+  reports: reports/
+  src: src/
+  dashboard: dashboard/
+
+settings:
+  random_state: 42
+  test_size: 0.2
