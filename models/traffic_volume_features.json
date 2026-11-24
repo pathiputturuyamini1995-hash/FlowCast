@@ -1,0 +1,16 @@
+[
+    "traffic_volume_lag_1",
+    "traffic_volume_lag_2",
+    "traffic_volume_lag_4",
+    "avg_speed_lag_1",
+    "avg_speed_lag_2",
+    "traffic_volume_rolling_mean_4",
+    "avg_speed_rolling_mean_4",
+    "hour",
+    "minute",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "is_morning_peak",
+    "is_evening_peak"
+]

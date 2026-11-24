@@ -1,0 +1,12 @@
+[
+    "traffic_volume",
+    "avg_speed",
+    "occupancy",
+    "hour",
+    "minute",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "is_morning_peak",
+    "is_evening_peak"
+]

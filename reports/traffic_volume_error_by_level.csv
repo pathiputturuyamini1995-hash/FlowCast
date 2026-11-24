@@ -1,0 +1,4 @@
+Traffic_Level,Number_of_Rows,Mean_Absolute_Error,Maximum_Error
+Low traffic,46200,9.0,202.76
+Medium traffic,69877,18.61,316.79
+High traffic,60624,38.6,455.8
